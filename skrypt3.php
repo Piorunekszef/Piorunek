@@ -8,4 +8,5 @@
     print("<br>Liczba b to: " . $b);
     print("<br>Liczba c to: " . $c);
     print("<br>Liczba d to: " . $d);
-?>
+    print("<br>Typ zmiennej a to: " . gettype($a));
+    ?>
