@@ -12,4 +12,5 @@ class fruit {
         echo "The fruit is:  {$this->name}.";
     }
 }
+$apple = new fruit("Apple");
 ?>
